@@ -1,3 +1,17 @@
+# G6 – Pydantic Agentic RAG Testing
+
+DV033G – Principles and Practices in Software Testing
+Project Group 6
+
+System under test:
+Typed Agentic RAG (PydanticAI)
+
+Testing scope:
+Retrieval, grounding/citations and agent behaviour.
+
+
+----
+
 <div align="center">
 
 # Awesome LLM Apps
